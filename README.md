@@ -1,1 +1,1 @@
-the project code is in the file named "project" 
+the project code is in the file named "project.c" 
